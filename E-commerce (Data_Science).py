@@ -17,7 +17,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 customer = pd.read_csv('Ecommerce Customers')
-
+ #ln17:
 
 # In[8]:
 

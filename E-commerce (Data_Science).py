@@ -12,7 +12,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # In[7]:
-
+# In[7]:
 
 customer = pd.read_csv('Ecommerce Customers')
 
